@@ -29,6 +29,16 @@ This project analyzes e-commerce sales data using SQL to extract meaningful busi
 - Analyzed sales by product, category, brand, platform, and city  
 - Conducted time-based analysis for monthly sales trends  
 
+---
+
+## Key Business Questions Answered
+
+- Which products generate the highest revenue and sell the most units?  
+- Which brands contribute the most to overall sales?  
+- Which cities generate the highest revenue and sell more products?  
+- How does revenue vary across pricing segments?  
+- What are the monthly sales trends and seasonality patterns?  
+
 
 ---
 
